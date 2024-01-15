@@ -1,0 +1,84 @@
+{
+  "user": [
+    {
+      "name": "Aziz",
+      "surname": "Abduhakimov",
+      "age": 19,
+      "work": "student",
+      "url": "https://picsum.photos/seed/picsum/200/300",
+      "info": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, doloremque sequi corporis veniam asperiores iure a. Pariatur nesciunt fuga possimus, quia repellendus cupiditate inventore, repudiandae mollitia iusto minus id blanditiis eligendi adipisci deleniti aut tempore corporis labore. Neque, similique. Tempora, reiciendis dolorem mollitia fugiat obcaecati assumenda earum perferendis molestiae beatae et blanditiis? Possimus impedit quam incidunt velit debitis? Reiciendis nam autem fugit adipisci in? Voluptatibus provident incidunt sit, consequuntur sint esse vero modi. Provident eius numquam illum sunt blanditiis sapiente incidunt possimus quas quam sint, cum iure! Quos, nam aliquid voluptatum, quo earum, eligendi architecto sequi alias eius id asperiores."
+    },
+    {
+      "name": "Sarvar",
+      "surname": "Abdukarimov",
+      "age": 19,
+      "work": "student",
+      "url": "https://picsum.photos/200/300/?blur",
+      "info": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, doloremque sequi corporis veniam asperiores iure a. Pariatur nesciunt fuga possimus, quia repellendus cupiditate inventore, repudiandae mollitia iusto minus id blanditiis eligendi adipisci deleniti aut tempore corporis labore. Neque, similique. Tempora, reiciendis dolorem mollitia fugiat obcaecati assumenda earum perferendis molestiae beatae et blanditiis? Possimus impedit quam incidunt velit debitis? Reiciendis nam autem fugit adipisci in? Voluptatibus provident incidunt sit, consequuntur sint esse vero modi. Provident eius numquam illum sunt blanditiis sapiente incidunt possimus quas quam sint, cum iure! Quos, nam aliquid voluptatum, quo earum, eligendi architecto sequi alias eius id asperiores."
+    },
+    {
+      "name": "Sanjar",
+      "surname": "Abdukarimov",
+      "age": 19,
+      "work": "student",
+      "url": "https://picsum.photos/200/300.jpg",
+      "info": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, doloremque sequi corporis veniam asperiores iure a. Pariatur nesciunt fuga possimus, quia repellendus cupiditate inventore, repudiandae mollitia iusto minus id blanditiis eligendi adipisci deleniti aut tempore corporis labore. Neque, similique. Tempora, reiciendis dolorem mollitia fugiat obcaecati assumenda earum perferendis molestiae beatae et blanditiis? Possimus impedit quam incidunt velit debitis? Reiciendis nam autem fugit adipisci in? Voluptatibus provident incidunt sit, consequuntur sint esse vero modi. Provident eius numquam illum sunt blanditiis sapiente incidunt possimus quas quam sint, cum iure! Quos, nam aliquid voluptatum, quo earum, eligendi architecto sequi alias eius id asperiores."
+    },
+    {
+      "name": "Damirbek",
+      "surname": "Akhrorov",
+      "age": 19,
+      "work": "student",
+      "url": "https://picsum.photos/seed/picsum/200/300",
+      "info": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, doloremque sequi corporis veniam asperiores iure a. Pariatur nesciunt fuga possimus, quia repellendus cupiditate inventore, repudiandae mollitia iusto minus id blanditiis eligendi adipisci deleniti aut tempore corporis labore. Neque, similique. Tempora, reiciendis dolorem mollitia fugiat obcaecati assumenda earum perferendis molestiae beatae et blanditiis? Possimus impedit quam incidunt velit debitis? Reiciendis nam autem fugit adipisci in? Voluptatibus provident incidunt sit, consequuntur sint esse vero modi. Provident eius numquam illum sunt blanditiis sapiente incidunt possimus quas quam sint, cum iure! Quos, nam aliquid voluptatum, quo earum, eligendi architecto sequi alias eius id asperiores."
+    },
+    {
+      "name": "Shaxboz",
+      "surname": "Usenbayev",
+      "age": 20,
+      "work": "student",
+      "url": "https://picsum.photos/200/300/?blur",
+      "info": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, doloremque sequi corporis veniam asperiores iure a. Pariatur nesciunt fuga possimus, quia repellendus cupiditate inventore, repudiandae mollitia iusto minus id blanditiis eligendi adipisci deleniti aut tempore corporis labore. Neque, similique. Tempora, reiciendis dolorem mollitia fugiat obcaecati assumenda earum perferendis molestiae beatae et blanditiis? Possimus impedit quam incidunt velit debitis? Reiciendis nam autem fugit adipisci in? Voluptatibus provident incidunt sit, consequuntur sint esse vero modi. Provident eius numquam illum sunt blanditiis sapiente incidunt possimus quas quam sint, cum iure! Quos, nam aliquid voluptatum, quo earum, eligendi architecto sequi alias eius id asperiores."
+    },
+    {
+      "name": "Otabek",
+      "surname": "Majitov",
+      "age": 19,
+      "work": "student",
+      "url": "https://picsum.photos/seed/picsum/200/300",
+      "info": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, doloremque sequi corporis veniam asperiores iure a. Pariatur nesciunt fuga possimus, quia repellendus cupiditate inventore, repudiandae mollitia iusto minus id blanditiis eligendi adipisci deleniti aut tempore corporis labore. Neque, similique. Tempora, reiciendis dolorem mollitia fugiat obcaecati assumenda earum perferendis molestiae beatae et blanditiis? Possimus impedit quam incidunt velit debitis? Reiciendis nam autem fugit adipisci in? Voluptatibus provident incidunt sit, consequuntur sint esse vero modi. Provident eius numquam illum sunt blanditiis sapiente incidunt possimus quas quam sint, cum iure! Quos, nam aliquid voluptatum, quo earum, eligendi architecto sequi alias eius id asperiores."
+    },
+    {
+      "name": "Isfandiyor",
+      "surname": "Erkinov",
+      "age": 18,
+      "work": "student",
+      "url": "https://picsum.photos/200/300/?blur",
+      "info": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, doloremque sequi corporis veniam asperiores iure a. Pariatur nesciunt fuga possimus, quia repellendus cupiditate inventore, repudiandae mollitia iusto minus id blanditiis eligendi adipisci deleniti aut tempore corporis labore. Neque, similique. Tempora, reiciendis dolorem mollitia fugiat obcaecati assumenda earum perferendis molestiae beatae et blanditiis? Possimus impedit quam incidunt velit debitis? Reiciendis nam autem fugit adipisci in? Voluptatibus provident incidunt sit, consequuntur sint esse vero modi. Provident eius numquam illum sunt blanditiis sapiente incidunt possimus quas quam sint, cum iure! Quos, nam aliquid voluptatum, quo earum, eligendi architecto sequi alias eius id asperiores."
+    },
+    {
+      "name": "Yodgor",
+      "surname": "Shuhratov",
+      "age": 14,
+      "work": "student",
+      "url": "https://picsum.photos/200/300.jpg",
+      "info": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, doloremque sequi corporis veniam asperiores iure a. Pariatur nesciunt fuga possimus, quia repellendus cupiditate inventore, repudiandae mollitia iusto minus id blanditiis eligendi adipisci deleniti aut tempore corporis labore. Neque, similique. Tempora, reiciendis dolorem mollitia fugiat obcaecati assumenda earum perferendis molestiae beatae et blanditiis? Possimus impedit quam incidunt velit debitis? Reiciendis nam autem fugit adipisci in? Voluptatibus provident incidunt sit, consequuntur sint esse vero modi. Provident eius numquam illum sunt blanditiis sapiente incidunt possimus quas quam sint, cum iure! Quos, nam aliquid voluptatum, quo earum, eligendi architecto sequi alias eius id asperiores."
+    },
+    {
+      "name": "Behruz",
+      "surname": "Omonqulov",
+      "age": 15,
+      "work": "student",
+      "url": "https://picsum.photos/seed/picsum/200/300",
+      "info": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, doloremque sequi corporis veniam asperiores iure a. Pariatur nesciunt fuga possimus, quia repellendus cupiditate inventore, repudiandae mollitia iusto minus id blanditiis eligendi adipisci deleniti aut tempore corporis labore. Neque, similique. Tempora, reiciendis dolorem mollitia fugiat obcaecati assumenda earum perferendis molestiae beatae et blanditiis? Possimus impedit quam incidunt velit debitis? Reiciendis nam autem fugit adipisci in? Voluptatibus provident incidunt sit, consequuntur sint esse vero modi. Provident eius numquam illum sunt blanditiis sapiente incidunt possimus quas quam sint, cum iure! Quos, nam aliquid voluptatum, quo earum, eligendi architecto sequi alias eius id asperiores."
+    },
+    {
+      "name": "Dilshod",
+      "surname": "Raxmonov",
+      "age": 18,
+      "work": "student",
+      "url": "https://picsum.photos/200/300.jpg",
+      "info": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, doloremque sequi corporis veniam asperiores iure a. Pariatur nesciunt fuga possimus, quia repellendus cupiditate inventore, repudiandae mollitia iusto minus id blanditiis eligendi adipisci deleniti aut tempore corporis labore. Neque, similique. Tempora, reiciendis dolorem mollitia fugiat obcaecati assumenda earum perferendis molestiae beatae et blanditiis? Possimus impedit quam incidunt velit debitis? Reiciendis nam autem fugit adipisci in? Voluptatibus provident incidunt sit, consequuntur sint esse vero modi. Provident eius numquam illum sunt blanditiis sapiente incidunt possimus quas quam sint, cum iure! Quos, nam aliquid voluptatum, quo earum, eligendi architecto sequi alias eius id asperiores."
+    }
+  ]
+}

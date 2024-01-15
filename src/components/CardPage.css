@@ -1,0 +1,101 @@
+.studentCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 333px;
+  border-radius: 10px;
+  background-color: black;
+  transition: all 0.7s ease;
+}
+.studentCard:hover {
+  transform: scale(0.9);
+}
+.studentCard h2 {
+  color: var(--Text_Dark_Accent, #ef6d58);
+  font-feature-settings: "clig" off, "liga" off;
+
+  /* H3 */
+  font-family: Epilogue;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 48px; /* 120% */
+}
+
+.studentCard h3 {
+  color: var(--Text_Dark_Accent, #ef6d58);
+  font-feature-settings: "clig" off, "liga" off;
+
+  /* H4 */
+  font-family: Epilogue;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px; /* 133.333% */
+}
+
+.studentCard p {
+  color: var(--Text_Dark_Accent, #ef6d58);
+  font-feature-settings: "clig" off, "liga" off;
+  text-align: center;
+  /* H5 */
+  font-family: Epilogue;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px; /* 200% */
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+.studentCard img {
+  width: 100%;
+  border-radius: 10px;
+  height: 200px;
+}
+.showInfo {
+  display: block;
+  color: #752b2b;
+}
+
+.hideInfo {
+  display: none;
+}
+.btn {
+  display: flex;
+  gap: 12px;
+  padding: 10px 0;
+}
+.btn button {
+  width: 70px;
+  height: 24px;
+  flex-shrink: 0;
+  border-radius: 7px;
+  color: #fff;
+  text-align: center;
+  font-family: Epilogue;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  text-transform: uppercase;
+  border-radius: 6px;
+  background: #ef6d58;
+  border: none;
+  transition: all 0.6s ease;
+}
+
+.btn button:hover {
+  background: #fff;
+  color: #ef6d58;
+}
+
+.InfoCard {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.minCard {
+  max-width: 400px;
+}
